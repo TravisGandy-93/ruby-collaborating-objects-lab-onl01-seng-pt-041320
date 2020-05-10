@@ -21,7 +21,7 @@ class Song
     
   end 
   
-  attr_reader :artist_name
+  
   
   def artist_name=(artist)
       @artist = artist 
